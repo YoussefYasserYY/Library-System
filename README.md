@@ -1,4 +1,13 @@
-# Library-System
-This was my first C++ project at FCAI 
+# Library Management System (OOP in C++)
 
-I was a first year student at Faculty of Computer and Artificial Intelligence
+## 📌 Project Overview
+This is an **Object-Oriented Programming (OOP)** based **Library Management System** implemented in **C++**. The system allows users to manage books and users efficiently.
+
+## 🚀 Features
+- Add, remove, and search for books.
+- Register and manage users.
+- Borrow and return books.
+- Display book and user lists.
+
+
+
